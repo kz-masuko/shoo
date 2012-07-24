@@ -1,0 +1,5 @@
+enchant();
+var game = new Game(200,200);
+game.onload = function(){
+
+}
